@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-size: 1em;
+}
+
+.image {
+  display: block;
+  width: 679px;
+  height: auto;
+  margin: 105px auto 0;
+  overflow: hidden;
+}
